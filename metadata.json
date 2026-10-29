@@ -1,0 +1,8 @@
+{
+  "name": "Diesel Piping \u0026 Pump Hydraulic Sizing Workstation by Festus",
+  "description": "Windows desktop-class engineering suite for sizing diesel fuel piping under ASME B31.3 and Darcy-Weisbach equations, featuring 3D pipe network visualization, pump performance curve matching, material database, and PDF engineering sign-off reports. ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
